@@ -21,7 +21,7 @@ const corsOptions = {
 app.use(cors(corsOptions))
 
 //Conexion a BD
-const url = `mongodb+srv://angelote:angelote@cluster0.wmnksje.mongodb.net/${process.env.DBNAME}?retryWrites=true&w=majority`
+const url = `mongodb+srv://NotoriusOkay:NotoriusOkay@cluster0.cxh28xh.mongodb.net/${process.env.DBNAME}?retryWrites=true&w=majority`
 mongoose.connect(url,{
     useNewUrlParser: true,
     useUnifiedTopology: true
