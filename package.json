@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AngelMunoz2001/backend-login.git"
+    "url": "git+https://github.com/NotoriusOkay/frontend-login.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AngelMunoz2001/backend-login/issues"
+    "url": "https://github.com/NotoriusOkay/backend-login/issues"
   },
-  "homepage": "https://github.com/AngelMunoz2001/backend-login#readme",
+  "homepage": "https://github.com/NotoriusOkay/backend-login#readme",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
     "bcrypt": "^5.1.0",
